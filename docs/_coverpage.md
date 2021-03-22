@@ -7,6 +7,6 @@
 - 无需生成 html 文件
 
 [百度一下](https://www.baidu.com)
-[进入第一个页面](README.md)
+[进入主页](README.md)
 
 ![color](#FFC0CB)
