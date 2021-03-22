@@ -8,6 +8,6 @@
 - 众多主题
 
 [百度一下](https://www.baidu.com)
-[进入第一个页面](README.md)
+[进入第一个页面](README)
 
 ![color](#FFC0CB)
